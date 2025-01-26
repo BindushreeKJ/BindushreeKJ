@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bindushreekj) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/bindushreekj) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BindushreeKJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BindushreeKJ&theme=dark&hide_border=false)<br/>
